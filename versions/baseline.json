@@ -1,0 +1,6 @@
+{
+	"default":
+	{
+		"gtk": { "baseline": "main", "port-version": 1 }
+	}
+}
