@@ -1,6 +1,7 @@
 {
 	"default":
 	{
-		"gtk": { "baseline": "main", "port-version": 1 }
+		"gtk": { "baseline": "main", "port-version": 1 },
+		"librsvg": { "baseline": "2.40.23", "port-version": 1 }
 	}
 }

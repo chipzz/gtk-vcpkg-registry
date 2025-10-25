@@ -8,8 +8,6 @@ vcpkg_from_gitlab(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO GNOME/gtk
     HEAD_REF main
-    PATCHES
-        fix_vulkan_enabled.patch
 )
 
 vcpkg_find_acquire_program(PKGCONFIG)
